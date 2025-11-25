@@ -1,6 +1,6 @@
 ## Rapport Tecnológia
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArvoreDosSaberes.ArvoreDosSaberes)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RapportTecnologia.RapportTecnologia)
 ![Language: Portuguese](https://img.shields.io/badge/Language-Portuguese-brightgreen.svg)
 
 
