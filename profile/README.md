@@ -1,5 +1,9 @@
 ## Rapport Tecnológia
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArvoreDosSaberes.ArvoreDosSaberes)
+![Language: Portuguese](https://img.shields.io/badge/Language-Portuguese-brightgreen.svg)
+
+
 Soluções tecnológicas integradas com IA, aproximando a Humanidade da Inteligência Artificial, soluções de Backend, Midleend e Firmwares para Embarcados e *IoT
 
 <!--
