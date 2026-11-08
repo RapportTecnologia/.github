@@ -1,6 +1,6 @@
 <div align="center">
 
-![Cabeçalho animado](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Rapport%20Tecnol%C3%B3gia&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tecnologia%20que%20conecta%20neg%C3%B3cios%2C%20pessoas%20e%20o%20futuro&descAlignY=60&descSize=16)
+![Cabeçalho animado](https://capsule-render.vercel.app/api?tetype=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Rapport%20Tecnol%C3%B3gia&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tecnologia%20que%20conecta%20neg%C3%B3cios%2C%20pessoas%20e%20o%20futuro&descAlignY=60&descSize=16)
 
 [![Texto animado](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=720&lines=Construindo+solu%C3%A7%C3%B5es+para+Web3;Tokeniza%C3%A7%C3%A3o+e+processos+empresariais;Smart+contracts%2C+EVM+e+inova%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
@@ -13,7 +13,7 @@
 
 ## Quem somos
 
-A **Rapport Tecnológia** desenvolve soluções tecnológicas integradas para aproximar empresas e pessoas das possibilidades da inteligência artificial e das novas tecnologias da Web. Atuamos da infraestrutura ao produto, conectando software, negócios e dispositivos.
+A **Rapport Tecnologia** desenvolve soluções tecnológicas integradas para aproximar empresas e pessoas das possibilidades da inteligência artificial e das novas tecnologias da Web. Atuamos da infraestrutura ao produto, conectando software, negócios e dispositivos.
 
 ## Nossa atuação
 
@@ -27,7 +27,7 @@ A **Rapport Tecnológia** desenvolve soluções tecnológicas integradas para ap
 
 ## Foco em Web3
 
-Desde 2026, a Rapport Tecnológia direciona seus esforços principalmente à **Web3**, investigando como a tokenização pode contribuir para processos empresariais e desenvolvendo propostas relacionadas à tesouraria em criptoativos.
+Desde 2026, a Rapport Tecnologia direciona seus esforços principalmente à **Web3**, investigando como a tokenização pode contribuir para processos empresariais e desenvolvendo propostas relacionadas à tesouraria em criptoativos.
 
 Seu fundador, [Carlos Delfino](https://github.com/CarlosDelfino), dedica-se ao estudo das redes EVM e de seus recursos, acompanhando os principais padrões ERC e suas possíveis aplicações no contexto empresarial.
 
@@ -41,7 +41,7 @@ Construímos **MVPs e protótipos** para testar conceitos, observar o comportame
 
 **Tem um desafio ou uma ideia para explorar?** Vamos conversar sobre como a tecnologia pode ajudar.
 
-*Rapport Tecnológia — conectando processos, inovação e novas possibilidades.*
+*Rapport Tecnologia — conectando processos, inovação e novas possibilidades.*
 
 ![Rodapé animado](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer&animation=fadeIn)
 
