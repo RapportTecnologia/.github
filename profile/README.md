@@ -38,7 +38,7 @@ Construímos **MVPs e protótipos** para testar conceitos, observar o comportame
 ## Contato
 
 - **WhatsApp:** [+55 (85) 98520-5490](https://wa.me/5585985205490)
-- **E-mail:** [admin@carlosdelfino.eti.br](mailto:admin@carlosdelfino.eti.br)
+- **E-mail:** [admin@rapport.tec.br](mailto:admin@rapport.tec.br)
 - **Consultoria:** [consultoria@carlosdelfino.eti.br](mailto:consultoria@carlosdelfino.eti.br)
 - **LinkedIn:** [Carlos Delfino](https://linkedin.com/in/carlosdelfino)
 - **Empresa no LinkedIn:** [Rapport Tecnologia](https://www.linkedin.com/company/rapporttecnologia)
