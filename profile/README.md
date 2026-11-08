@@ -1,6 +1,6 @@
 <div align="center">
 
-![Cabeçalho animado](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Rapport%20Tecnol%C3%B3gia&fontSize=48&fontColor=ffffff&animation=fadeIn)
+![Cabeçalho animado](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Rapport%20Tecnologia&fontSize=48&fontColor=ffffff&animation=fadeIn)
 
 [![Texto animado](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=720&lines=Construindo+solu%C3%A7%C3%B5es+para+Web3;Tomando+decis%C3%B5es+com+dados;Explorando+novas+fronteiras+digitais)](https://github.com/RapportTecnologia)
 
